@@ -6,6 +6,6 @@
 /edit       https://github.com/jamestomasino/ino.is/edit/main/_redirects
 /morse      https://mcmsuite.morsecodemedia.com/
 /small-internet-talk https://media.ccc.de/v/mch2022-83-rocking-the-web-bloat-modern-gopher-gemini-and-the-small-internet
+/contact    https://tomasino.org/vcard.vcf
 
 /*          https://tomasino.org
-/contact    https://tomasino.org/vcard.vcf
